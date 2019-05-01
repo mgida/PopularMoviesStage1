@@ -12,4 +12,4 @@ A plot synopsis (overview)
 user rating
 release date
 
-Note : In order to run the app, you must create your own Movie DB API key. See here for more info. Once you have crated an API key,insert it in the Networking class.
+Note : In order to run the app, you must create your own Movie DB API key.Once you have crated an API key,insert it in the Networking class.
